@@ -1,0 +1,5 @@
+@media only screen and (max-width: 912px) {
+    .login-content {
+      grid-template-columns: 1fr;
+    }
+}
